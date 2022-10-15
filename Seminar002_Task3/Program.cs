@@ -9,3 +9,4 @@ if (number == 4) Console.Write("Четверг");
 if (number == 5) Console.Write("Пятница");
 if (number == 6) Console.Write("Суббота");
 if (number == 7) Console.Write("Воскресенье");
+if ((number > 7) || (number < 1)) Console.Write("Проверьте, правильно ли введена цифра");
